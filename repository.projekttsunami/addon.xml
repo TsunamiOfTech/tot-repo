@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.projekttsunami" name="[COLOR cyan]Tsunami Of Tech Repository[/color]" version="1.0" provider-name="Tsunami Of Tech">
+	<extension point="xbmc.addon.repository" name="Tsunami Of Tech">
+		<dir>
+			<info compressed="false">http://projekt-tsunami.rf.gd/zips/addons.xml</info>
+			<checksum>http://projekt-tsunami.rf.gd/zips/addonsmd5.txt</checksum>
+			<datadir zip="true">http://projekt-tsunami.rf.gd/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>	
+			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/tsunamioftech/tot-modules/master/addons.xml</info>	
+			<checksum>https://raw.githubusercontent.com/tsunamioftech/tot-modules/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/tsunamioftech/tot-modules/master/zips/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">Home Of Da Best Kodi Addons To Ever exist</summary>
+		<description lang="en">Home Of Da Best Kodi Addons To Ever exist</description>
+		<genre>usa</genre>
+	</extension>
+</addon>
